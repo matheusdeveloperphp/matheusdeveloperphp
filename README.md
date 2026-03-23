@@ -12,7 +12,7 @@
   <a href="https://github.com/matheusdeveloperphp">
     <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/matheussoaresdesenvolvedor/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -113,8 +113,8 @@ Me tornar um especialista em backend, construindo sistemas:
 
 ## 📫 Contato
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: coloque-seu-link-aqui
+📧 Email: [matheus.solucaotecnologia@gmail.com](mailto:matheus.solucaotecnologia@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/matheussoaresdesenvolvedor/
 
 ---
 
