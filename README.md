@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus Soares Lima!
 
-> Software Engineer (Backend | Java & PHP | APIs & Arquitetura de Sistemas)
+> Software Engineer (Backend | Java & PHP | APIs | Cloud & Arquitetura de Sistemas)
 
 <p>Engenheiro de Software com foco em desenvolvimento backend, atuando na construção, manutenção e evolução de sistemas web utilizando <strong>Java e PHP</strong>, com ênfase em aplicações robustas, escaláveis e de fácil manutenção.</p>
 
@@ -15,11 +15,12 @@
   <li><strong>Manutenção e modernização de sistemas legados</strong>: refatoração, melhoria de performance e aplicação de boas práticas.</li>
   <li><strong>Arquitetura de software</strong>: organização de código, separação de responsabilidades e criação de soluções sustentáveis.</li>
   <li><strong>Integração entre sistemas</strong>: consumo e criação de APIs, garantindo comunicação eficiente entre serviços.</li>
+  <li><strong>Cloud e infraestrutura</strong>: utilização de serviços AWS para deploy, escalabilidade e gerenciamento de aplicações.</li>
 </ul>
 
 <br>
 
-<p>Trabalho com tecnologias modernas do ecossistema backend, evoluindo constantemente em arquitetura de software, microsserviços, mensageria e testes automatizados.</p>
+<p>Trabalho com tecnologias modernas do ecossistema backend e cloud, evoluindo constantemente em arquitetura de software, microsserviços, mensageria e testes automatizados.</p>
 
 <p>Performance, organização e clareza de código são pilares fundamentais no desenvolvimento, reduzindo retrabalho e facilitando a evolução contínua dos sistemas.</p>
 
@@ -36,6 +37,13 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+
+## ☁️ Cloud (AWS)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-4B0082?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ## Ferramentas
 
